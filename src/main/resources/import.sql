@@ -1,0 +1,3 @@
+INSERT INTO alumno (chr_alu_codigo, vch_alu_nombres, vch_alu_apellidos, dtm_alu_fecha_nac, chr_alu_sexo) VALUES ('TEC1', 'Marcelo', 'Velasquez', '16-03-1999', 'M');
+INSERT INTO alumno (chr_alu_codigo, vch_alu_nombres, vch_alu_apellidos, dtm_alu_fecha_nac, chr_alu_sexo) VALUES ('TEC2', 'Jurgen', 'Amaya', '05-12-95', 'M');
+INSERT INTO alumno (chr_alu_codigo, vch_alu_nombres, vch_alu_apellidos, dtm_alu_fecha_nac, chr_alu_sexo) VALUES ('TEC3', 'Susana', 'Vertiz', '31-05-2001', 'F');
